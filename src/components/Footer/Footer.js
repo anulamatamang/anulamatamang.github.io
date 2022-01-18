@@ -20,7 +20,7 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
           <LinkTitle>Call</LinkTitle>
-          <LinkItem href='tel:111-111-1111'>111-111-1111</LinkItem>
+          <LinkItem href='tel:208-917-0950'>208-917-0950</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
@@ -34,14 +34,11 @@ const Footer = () => {
           <Slogan>Innovating one project at a time</Slogan>
         </CompanyContainer> */}
         <SocialContainer>
-          <SocialIcons href='https://github.com'>
+          <SocialIcons href='https://github.com/anulamatamang'>
             <AiFillGithub size='3rem' />
           </SocialIcons>
-          <SocialIcons href='https://linkedin.com'>
+          <SocialIcons href='https://www.linkedin.com/in/anu-lama-b579731a4/'>
             <AiFillLinkedin size='3rem' />
-          </SocialIcons>
-          <SocialIcons href='https://instagram.com'>
-            <AiFillInstagram size='3rem' />
           </SocialIcons>
         </SocialContainer>
       </SocialIconsContainer>
